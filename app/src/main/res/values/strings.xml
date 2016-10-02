@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="TODO_LIST_PREFS">TODO_LIST_PREF</string>
+    <string name="title_activity_delete_favs">DeleteFavs</string>
+    <string name="title_activity_delete_favr">Delete_favr</string>
+</resources>
